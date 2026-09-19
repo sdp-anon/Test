@@ -1,0 +1,5 @@
+print("HEllOOOO")
+print("HII")
+print("BYE")
+print("BYE BYE")
+print(3+3)
